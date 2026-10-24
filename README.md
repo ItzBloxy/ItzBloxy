@@ -7,7 +7,7 @@
 ### 
 
 <a href="https://store.steampowered.com/app/4348290/NULL_INITIATIVE/">
-<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348290/47a76d602972a750f310cbc81a0f24de1939d950/header.jpg?t=1773905452" width="440" alt="NULL: INITIATIVE">
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4348290/23be28995c23c2f0b021874b0f597c662af1b0a0/header.jpg?t=1792779612" width="440" alt="NULL: INITIATIVE">
 </a>
 
 ![Early Access](https://img.shields.io/badge/Early%20Access-7C3AED?style=flat-square)
